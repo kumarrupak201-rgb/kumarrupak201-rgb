@@ -88,9 +88,9 @@ rupak = {
 
 <div align="center">
 
-![GATE](https://img.shields.io/badge/GATE%202024-AIR%201812-00FF9C?style=for-the-badge&labelColor=004d40)
-![IITK](https://img.shields.io/badge/IIT%20Kanpur-M.Tech%202024--Present-00FF9C?style=for-the-badge&labelColor=006400)
-![BTech](https://img.shields.io/badge/Heritage%20Institute-B.Tech%202019--2023-00FF9C?style=for-the-badge&labelColor=005f5f)
+**GATE 2024** — AIR **1812** among 85,000+ candidates (Transportation Engineering)  
+**M.Tech @ IIT Kanpur** — Transportation Engineering (2024–Present)  
+**B.Tech @ Heritage Institute of Technology, Kolkata** — Civil Engineering (2019–2023)
 
 </div>
 
