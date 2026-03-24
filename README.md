@@ -4,11 +4,11 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6E45E2&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Driver+Distraction+Researcher;Android+%7C+Python+%7C+ML+Developer;GATE+2024+AIR+1812;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Driver+Distraction+Researcher;Android+%7C+Python+%7C+ML+Developer;GATE+2024+AIR+1812;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=50&section=footer&reversal=true" width="100%"/>
 
 ## About Me
 
@@ -25,7 +25,7 @@ rupak = {
 }
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=50&section=header&reversal=true" width="100%"/>
 
 ## Tech Stack
 
@@ -59,17 +59,17 @@ rupak = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=50&section=footer&reversal=true" width="100%"/>
 
 ## Activity Graph
 
 <div align="center">
 
-[![Rupak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrupak201-rgb&theme=tokyo-night&hide_border=true&area=true&area_color=6E45E2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rupak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarrupak201-rgb&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=50&section=header&reversal=true" width="100%"/>
 
 ## Pinned Projects
 
@@ -82,19 +82,19 @@ rupak = {
 | [Telecom Customer Churn](https://github.com/kumarrupak201-rgb/Telecom-Customer-Churn) | Churn prediction using ML classification techniques | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [SQL Library Project](https://github.com/kumarrupak201-rgb/sql-library-project) | Library Management System in MySQL | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=50&section=footer&reversal=true" width="100%"/>
 
 ## Achievements
 
 <div align="center">
 
-**GATE 2024** — AIR **1812** among 85,000+ candidates (Transportation Engineering)  
-**M.Tech @ IIT Kanpur** — Transportation Engineering (2024–Present)  
-**B.Tech @ Heritage Institute of Technology, Kolkata** — Civil Engineering (2019–2023)
+![GATE](https://img.shields.io/badge/GATE%202024-AIR%201812-6E45E2?style=for-the-badge)
+![IITK](https://img.shields.io/badge/IIT%20Kanpur-M.Tech%202024--Present-00D9FF?style=for-the-badge)
+![BTech](https://img.shields.io/badge/Heritage%20Institute-B.Tech%202019--2023-FF6B6B?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=50&section=header&reversal=true" width="100%"/>
 
 ## Connect With Me
 
