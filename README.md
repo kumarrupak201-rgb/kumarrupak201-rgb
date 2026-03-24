@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,26&height=50&section=footer&reversal=true" width="100%"/>
+---
 
 ## About Me
 
@@ -25,7 +25,7 @@ rupak = {
 }
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=26,3,2&height=50&section=header&reversal=true" width="100%"/>
+---
 
 ## Tech Stack
 
@@ -59,7 +59,7 @@ rupak = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,26&height=50&section=footer&reversal=true" width="100%"/>
+---
 
 ## Activity Graph
 
@@ -69,7 +69,7 @@ rupak = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=26,3,2&height=50&section=header&reversal=true" width="100%"/>
+---
 
 ## Pinned Projects
 
@@ -82,7 +82,7 @@ rupak = {
 | [Telecom Customer Churn](https://github.com/kumarrupak201-rgb/Telecom-Customer-Churn) | Churn prediction using ML classification techniques | ![Python](https://img.shields.io/badge/-Python-006400?style=flat&logo=python&logoColor=00FF9C) |
 | [SQL Library Project](https://github.com/kumarrupak201-rgb/sql-library-project) | Library Management System in MySQL | ![SQL](https://img.shields.io/badge/-SQL-00695c?style=flat&logo=mysql&logoColor=white) |
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2,3,26&height=50&section=footer&reversal=true" width="100%"/>
+---
 
 ## Achievements
 
@@ -94,7 +94,7 @@ rupak = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=26,3,2&height=50&section=header&reversal=true" width="100%"/>
+---
 
 ## Connect With Me
 
