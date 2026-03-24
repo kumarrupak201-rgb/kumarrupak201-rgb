@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6E45E2&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Driver+Distraction+Researcher;Android+%7C+Python+%7C+ML+Developer;GATE+2024+AIR+1812;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6E45E2&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Driver+Distraction+Researcher;Android+%7C+Python+%7C+ML+Developer;GATE+2024+AIR+1812;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
 
 </div>
 
