@@ -88,7 +88,7 @@ rupak = {
 
 <div align="center">
 
-**GATE 2024** — AIR **1812** among 85,000+ candidates (Transportation Engineering)  
+**GATE 2024** — AIR **1812** among 85,000+ candidates (Civil Engineering)  
 **M.Tech @ IIT Kanpur** — Transportation Engineering (2024–Present)  
 **B.Tech @ Heritage Institute of Technology, Kolkata** — Civil Engineering (2019–2023)
 
