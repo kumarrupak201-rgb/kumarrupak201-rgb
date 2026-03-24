@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rupak%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=M.Tech%20Transportation%20Engineering%20%7C%20IIT%20Kanpur&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rupak%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=M.Tech%20Transportation%20Engineering%20%7C%20IIT%20Kanpur&descAlignY=58&descSize=17" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6E45E2&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Driver+Distraction+Researcher+%F0%9F%9A%97;Android+%7C+Python+%7C+ML+Developer+%F0%9F%A7%A0;GATE+2024+AIR+1812+%F0%9F%8F%86;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6E45E2&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Driver+Distraction+Researcher;Android+%7C+Python+%7C+ML+Developer;GATE+2024+AIR+1812;IIT+Kanpur+%7C+Transportation+Safety)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,16 +24,6 @@ rupak = {
     "currently"  : "Building driving simulator experiments 🚦"
 }
 ```
-
----
-
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarrupak201-rgb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
